@@ -1,6 +1,6 @@
 ### Olá!! Sou Thiago Santos
 
-- Estudante de Eng. de Software 💻🌱
+- Estudante de Análise e desenvolvmento de sistemas 💻
 
  <div>
   <a href="https://github.com/thiagosantos27">
